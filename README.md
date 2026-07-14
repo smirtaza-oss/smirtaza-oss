@@ -1,36 +1,32 @@
 <!-- 
-  ███╗   ███╗██╗██████╗ ████████╗ █████╗ ███████╗ █████╗ 
-  ████╗ ████║██║██╔══██╗╚══██╔══╝██╔══██╗╚══███╔╝██╔══██╗
-  ██╔████╔██║██║██████╔╝   ██║   ███████║  ███╔╝ ███████║
-  ██║╚██╔╝██║██║██╔══██╗   ██║   ██╔══██║ ███╔╝  ██╔══██║
-  ██║ ╚═╝ ██║██║██║  ██║   ██║   ██║  ██║███████╗██║  ██║
-  ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-
-  ADVANCED PROFILE README – full setup instructions below
-  - Replace "YOUR_SPOTIFY_USER_ID" with your actual Spotify user ID.
-  - Replace "smirtaza" in WakaTime / Dev.to with your own username.
-  - Snake animation needs a GitHub Action (see end of file).
-  - 3D heatmap uses ghchart.rshah.org (automatic).
+  ============================================================
+  🚀  MIRTAZA’S ULTIMATE GITHUB PROFILE  🚀
+  Full of live data, animations, and interactive widgets.
+  Remember to replace placeholders (YOUR_*, etc.) and set up
+  GitHub Actions for dynamic sections (snake, activity, etc.).
+  ============================================================
 -->
 
 <div align="center">
 
-<!-- Animated Wave Banner -->
+<!-- Top Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=MIRTAZA&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Explorer&descAlignY=58"/>
 
 <br>
 
-<!-- Main Typing Intro -->
+<!-- Typing Intro -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1100&lines=👋+Welcome+to+my+GitHub+Universe;💻+Full+Stack+Developer;🤖+Artificial+Intelligence+Enthusiast;☁️+Cloud+Computing+Explorer;🚀+Building+Tomorrow's+Technology;⚡+Always+Learning+Always+Shipping"/>
 
 <br><br>
 
-<!-- Dynamic Badges -->
+<!-- Badges + Live Status -->
 <img src="https://img.shields.io/github/followers/smirtaza-oss?style=for-the-badge&logo=github&color=181717"/>
 <img src="https://img.shields.io/github/stars/smirtaza-oss?style=for-the-badge&logo=github&color=FFD700"/>
 <img src="https://komarev.com/ghpvc/?username=smirtaza-oss&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Engineer-7B61FF?style=for-the-badge"/>
+<!-- Dynamic Status (update via GitHub Action) -->
+<img src="https://img.shields.io/badge/Status-Building%20Something%20Awesome!-success?style=for-the-badge&logo=statuspal"/>
 
 <br><br>
 
@@ -41,18 +37,18 @@
 
 ---
 
-<!-- SYSTEM INFORMATION - Advanced Neofetch Terminal -->
+<!-- LIVE SYSTEM INFORMATION (Neofetch style) -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=6,11,20&text=SYSTEM%20INFORMATION&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
-<div align="center" style="background-color:#0d1117; border:1px solid #00FF41; border-radius:15px; padding:25px; margin:20px; box-shadow:0 0 20px rgba(0,255,65,0.2);">
+<div align="center" style="background-color:#0d1117; border:1px solid #00FF41; border-radius:15px; padding:25px; margin:20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF41&center=false&vCenter=false&multiline=true&width=850&height=420&lines=user@mirtaza-os:~%24+neofetch;OS%3A+MIRTAZA-OS+v2.0;Kernel%3A+Caffeine-Powered;Shell%3A+zsh+5.8;Resolution%3A+2560x1440;Uptime%3A+22+years;Packages%3A+999%2B+(npm);Theme%3A+Tokyo+Night;CPU%3A+Intel+Coffee+Lake+(8)+%40+4.2GHz;GPU%3A+NVIDIA+RTX+Imagination;Memory%3A+16GB+%2F+32GB;user@mirtaza-os:~%24+_"/>
 </div>
 
 ---
 
-<!-- CONNECT Section -->
+<!-- QUICK LINKS + SOCIAL -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=🌌+CONNECT&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -67,7 +63,7 @@
 
 ---
 
-<!-- TECHNOLOGY STACK Section -->
+<!-- TECH STACK (with per-category icons) -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⚙️+TECHNOLOGY+STACK&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -78,24 +74,51 @@
 
 ---
 
-<!-- LIVE GITHUB ANALYTICS Section -->
+<!-- SKILLS RADAR CHART (dynamic image) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=📊+LIVE+GITHUB+ANALYTICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=📡+SKILLS+RADAR&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Replace with your own radar image (e.g., from github-profile-summary-cards) -->
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/5-most-commit-language.svg" width="400"/>
+  <br>
+  <i>Powered by github-profile-summary-cards</i>
+</div>
+
+---
+
+<!-- GITHUB STATISTICS + STREAK + GRAPH -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=📊+GITHUB+ANALYTICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smirtaza-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=compact&theme=tokyonight&hide_border=true"/>
-  
   <img width="99%" src="https://streak-stats.demolab.com?user=smirtaza-oss&theme=tokyonight&hide_border=true"/>
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=smirtaza-oss&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS Section -->
+<!-- RECENT GITHUB ACTIVITY (auto-updated via Action) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=🏆+ACHIEVEMENTS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🕒+RECENT+ACTIVITY&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- This feed gets updated by the "GitHub Activity in README" Action -->
+  <img src="https://github-readme-activity.vercel.app/api?username=smirtaza-oss&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<!-- ACHIEVEMENTS (Trophy) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=🏆+ACHIEVEMENTS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -104,105 +127,62 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE Section -->
+<!-- CODING PLATFORMS (LeetCode, Codeforces, etc.) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🐍+CONTRIBUTION+SNAKE&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=⚔️+CODING+PLATFORMS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/smirtaza?theme=tokyonight&font=JetBrains%20Mono&ext=heatmap" width="49%"/>
+  <!-- Codeforces Stats (if you have an account) -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smirtaza&theme=tokyonight" width="49%"/>
+</div>
+
+---
+
+<!-- WAKATIME WEEKLY BREAKDOWN -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⏱️+CODING+METRICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Requires WakaTime API key configured in the Action -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
+  <br>
+  <img src="https://wakatime.com/share/@smirtaza/5b3c5f6e-1f45-4b7a-b08e-38b1a2f3f7cd.svg" width="49%"/>
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE + 3D HEATMAP -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=🐍+CONTRIBUTION+GRID&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-<!-- RANDOM DEV QUOTE Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=💡+RANDOM+DEV+QUOTE&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-<!-- JOKE OF THE DAY Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=😆+JOKE+OF+THE+DAY&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</div>
-
----
-
-<!-- INTERACTIVE TERMINAL Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🎮+DEVELOPER+TERMINAL&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <!-- Placeholder for a real live terminal – replace with your own iframe if you have one -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561b4732-4b57-40d0-82a8-b5fa1c8506e8.gif" width="500"/>
   <br>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Live%20Terminal-00FF41?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<!-- SPOTIFY NOW PLAYING Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=🎵+NOW+PLAYING&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <!-- Replace YOUR_SPOTIFY_USER_ID with your own Spotify user ID -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-</div>
-
----
-
-<!-- CODING METRICS (WakaTime) Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=⏱️+CODING+METRICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <!-- Replace "smirtaza" with your WakaTime username -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
-
----
-
-<!-- 3D CONTRIBUTION HEATMAP Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🌍+CONTRIBUTION+HEATMAP&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
   <img src="https://ghchart.rshah.org/00FF41/smirtaza-oss" alt="3D Contribution Calendar" width="90%"/>
 </div>
 
 ---
 
-<!-- LATEST BLOG POSTS Section -->
+<!-- SPOTIFY NOW PLAYING -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=📝+LATEST+ARTICLES&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=🎵+NOW+PLAYING&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Replace "smirtaza" with your dev.to / hashnode username -->
-  <img src="https://blog-readme.vercel.app/api?username=smirtaza"/>
+  <!-- Replace YOUR_SPOTIFY_USER_ID with your Spotify ID (public playlists needed) -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </div>
 
 ---
 
-<!-- LIVE CLOCK Section -->
+<!-- LIVE CLOCK -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=⏰+LOCAL+TIME&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⏰+LOCAL+TIME&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -211,20 +191,78 @@
 
 ---
 
-<!-- RANDOM TECH STACK MASHUP GIF Section -->
+<!-- RANDOM DEV QUOTE + JOKE + XKCD COMIC -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🧪+TECH+MASHUP&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=💡+INSPIRATION&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-9007187d-33d4-4a25-93b7-2b1aae58ed8a.gif" width="400"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500"/>
+  <br>
+  <!-- XKCD of the day (updated daily) -->
+  <a href="https://xkcd.com/" target="_blank">
+    <img src="https://xkcd.com/s/0b7742.png" width="300"/>
+  </a>
 </div>
 
 ---
 
-<!-- MOTTO Section -->
+<!-- TIL (Today I Learned) Section (auto-updated) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=⚡+MOTTO&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=📘+TODAY+I+LEARNED&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Content injected by a GitHub Action that reads your TIL repo -->
+  <!-- Just a placeholder; replace with actual dynamic content -->
+  <i>"Learning never exhausts the mind." – Leonardo da Vinci</i>
+  <br>
+  <a href="https://github.com/smirtaza-oss/TIL">📂 Explore my TIL collection</a>
+</div>
+
+---
+
+<!-- DYNAMIC "CURRENTLY" SECTION (updated via Action) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🎯+WHAT+I'M+UP+TO&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- This can be updated daily/weekly via a simple GitHub Action -->
+  <!-- Example: "🔥 Working on: AI-Powered SaaS" -->
+  <img src="https://img.shields.io/badge/Working%20On-AI--Powered%20SaaS-blue?style=for-the-badge&logo=openai"/>
+  <br>
+  <img src="https://img.shields.io/badge/Learning-Kubernetes%20%26%20DevOps-9cf?style=for-the-badge&logo=kubernetes"/>
+  <br>
+  <img src="https://img.shields.io/badge/Reading-Clean%20Architecture-lightgrey?style=for-the-badge&logo=goodreads"/>
+</div>
+
+---
+
+<!-- SUPPORT / SPONSORS -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=❤️+SUPPORT+MY+WORK&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/smirtaza" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://github.com/sponsors/smirtaza-oss" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="60"/>
+  </a>
+  <br>
+  <!-- Dynamic Sponsor Widget (if you have sponsors) -->
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/sponsors.svg"/>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=⚡+MOTTO&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -234,32 +272,3 @@
 
 <!-- Bottom Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=gradient&customColorList=6,11,20,24,30"/>
-
-<!-- 
-  ============================================================
-  OPTIONAL: GitHub Action for Snake Animation
-  Create a file .github/workflows/snake.yml with the following:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: smirtaza-oss
-            outputs: dist/github-contribution-grid-snake-dark.svg
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ============================================================
-  This will auto-update the snake every day.
--->
