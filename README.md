@@ -74,18 +74,19 @@
 
 ---
 
-<!-- SKILLS RADAR CHART (dynamic image) -->
+<!-- 🔥 REPLACED STATIC SVGs WITH ANIMATED SKILLS RADAR -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=📡+SKILLS+RADAR&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Replace with your own radar image (e.g., from github-profile-summary-cards) -->
-  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400"/>
+  <!-- Animated typing skill categories – much more lively than a static SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&height=120&lines=🚀+Languages%3A+Python+%7C+JavaScript+%7C+TypeScript+%7C+Java+%7C+C%2B%2B;🧠+AI%2FML%3A+TensorFlow+%7C+PyTorch+%7C+Scikit-learn+%7C+NLP;☁️+Cloud%3A+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;⚡+Frameworks%3A+React+%7C+Next.js+%7C+Node.js+%7C+Express;🗄️+Databases%3A+MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redis;🔧+DevOps%3A+CI%2FCD+%7C+GitHub+Actions+%7C+Linux+%7C+Bash"/>
   <br>
-  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/5-most-commit-language.svg" width="400"/>
+  <!-- A visual donut chart (still static but with a glossy, modern look) as a bonus -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="400"/>
   <br>
-  <i>Powered by github-profile-summary-cards</i>
+  <i>✨ Skill set in motion – real expertise, real impact.</i>
 </div>
 
 ---
@@ -209,15 +210,14 @@
 
 ---
 
-<!-- TIL (Today I Learned) Section (auto-updated) -->
+<!-- TIL (Today I Learned) Section – now with an animated typing quote -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=📘+TODAY+I+LEARNED&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Content injected by a GitHub Action that reads your TIL repo -->
-  <!-- Just a placeholder; replace with actual dynamic content -->
-  <i>"Learning never exhausts the mind." – Leonardo da Vinci</i>
+  <!-- Animated inspiration instead of static text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=600&lines=%22The+only+way+to+do+great+work%22;%22is+to+love+what+you+do.%22;%22–+Steve+Jobs%22"/>
   <br>
   <a href="https://github.com/smirtaza-oss/TIL">📂 Explore my TIL collection</a>
 </div>
@@ -231,7 +231,6 @@
 
 <div align="center">
   <!-- This can be updated daily/weekly via a simple GitHub Action -->
-  <!-- Example: "🔥 Working on: AI-Powered SaaS" -->
   <img src="https://img.shields.io/badge/Working%20On-AI--Powered%20SaaS-blue?style=for-the-badge&logo=openai"/>
   <br>
   <img src="https://img.shields.io/badge/Learning-Kubernetes%20%26%20DevOps-9cf?style=for-the-badge&logo=kubernetes"/>
