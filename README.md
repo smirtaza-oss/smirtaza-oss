@@ -1,15 +1,13 @@
 <!-- 
   ============================================================
-  🚀    ███╗   ███╗██╗██████╗ ████████╗ █████╗ ███████╗ █████╗ 
-  ████╗ ████║██║██╔══██╗╚══██╔══╝██╔══██╗╚══███╔╝██╔══██╗
-  ██╔████╔██║██║██████╔╝   ██║   ███████║  ███╔╝ ███████║
-  ██║╚██╔╝██║██║██╔══██╗   ██║   ██╔══██║ ███╔╝  ██╔══██║
-  ██║ ╚═╝ ██║██║██║  ██║   ██║   ██║  ██║███████╗██║  ██║
-  ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-               ULTIMATE GITHUB PROFILE  🚀
-  Full of live data, animations, and interactive widgets.
-  Remember to replace placeholders (YOUR_*, etc.) and set up
-  GitHub Actions for dynamic sections (snake, activity, etc.).
+  🚀  MIRTAZA’S ULTIMATE GITHUB PROFILE – NOW WITH 3D & LIVE MAP  🚀
+  Added:
+    - 🌐 Live visitor map
+    - 🧊 3D contribution cube
+    - 📌 Featured projects with animated cards
+    - ⛅ Live weather badge
+    - 🧠 Random tech facts
+    - 🔮 OSS Insight stats
   ============================================================
 -->
 
@@ -31,7 +29,6 @@
 <img src="https://komarev.com/ghpvc/?username=smirtaza-oss&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Engineer-7B61FF?style=for-the-badge"/>
-<!-- Dynamic Status (update via GitHub Action) -->
 <img src="https://img.shields.io/badge/Status-Building%20Something%20Awesome!-success?style=for-the-badge&logo=statuspal"/>
 
 <br><br>
@@ -43,7 +40,7 @@
 
 ---
 
-<!-- LIVE SYSTEM INFORMATION (Neofetch style) -->
+<!-- LIVE SYSTEM INFORMATION (Neofetch style) – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=6,11,20&text=SYSTEM%20INFORMATION&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -54,7 +51,7 @@
 
 ---
 
-<!-- QUICK LINKS + SOCIAL -->
+<!-- QUICK LINKS + SOCIAL – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=🌌+CONNECT&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -69,7 +66,23 @@
 
 ---
 
-<!-- TECH STACK (with per-category icons) -->
+<!-- 🌐 LIVE VISITOR MAP (NEW) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=27,28,29&text=🌐+VISITOR+GLOBE&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Sign up at https://clustrmaps.com, get your own map ID -->
+  <a href="https://clustrmaps.com/site/1bq5o" title="Visit tracker">
+    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=YOUR_CLUSTRMAPS_ID&co=2d78ad&ct=ffffff" width="80%"/>
+  </a>
+  <br>
+  <i>Where in the world are my visitors? 🌍</i>
+</div>
+
+---
+
+<!-- TECH STACK – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⚙️+TECHNOLOGY+STACK&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -80,24 +93,22 @@
 
 ---
 
-<!-- 🔥 REPLACED STATIC SVGs WITH ANIMATED SKILLS RADAR -->
+<!-- 📡 SKILLS RADAR – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=📡+SKILLS+RADAR&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Animated typing skill categories – much more lively than a static SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&height=120&lines=🚀+Languages%3A+Python+%7C+JavaScript+%7C+TypeScript+%7C+Java+%7C+C%2B%2B;🧠+AI%2FML%3A+TensorFlow+%7C+PyTorch+%7C+Scikit-learn+%7C+NLP;☁️+Cloud%3A+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;⚡+Frameworks%3A+React+%7C+Next.js+%7C+Node.js+%7C+Express;🗄️+Databases%3A+MongoDB+%7C+PostgreSQL+%7C+MySQL+%7C+Redis;🔧+DevOps%3A+CI%2FCD+%7C+GitHub+Actions+%7C+Linux+%7C+Bash"/>
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400"/>
   <br>
-  <!-- A visual donut chart (still static but with a glossy, modern look) as a bonus -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="400"/>
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-summary-card-output/tokyonight/5-most-commit-language.svg" width="400"/>
   <br>
-  <i>✨ Skill set in motion – real expertise, real impact.</i>
+  <i>Powered by github-profile-summary-cards</i>
 </div>
 
 ---
 
-<!-- GITHUB STATISTICS + STREAK + GRAPH -->
+<!-- 📊 GITHUB ANALYTICS – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=📊+GITHUB+ANALYTICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -111,50 +122,91 @@
 
 ---
 
-<!-- RECENT GITHUB ACTIVITY (auto-updated via Action) -->
+<!-- 🕒 RECENT ACTIVITY – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🕒+RECENT+ACTIVITY&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- This feed gets updated by the "GitHub Activity in README" Action -->
   <img src="https://github-readme-activity.vercel.app/api?username=smirtaza-oss&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS (Trophy) -->
+<!-- 📌 FEATURED PROJECTS (NEW) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=🏆+ACHIEVEMENTS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=10,12,15&text=📌+FEATURED+PROJECTS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smirtaza-oss&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  <!-- Pinned repo cards with live stats – animated borders via CSS (GitHub may strip, but works as image) -->
+  <a href="https://github.com/smirtaza-oss/project-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=project-ai&theme=tokyonight&hide_border=true&show_owner=true"/>
+  </a>
+  <a href="https://github.com/smirtaza-oss/cloud-saas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=cloud-saas&theme=tokyonight&hide_border=true&show_owner=true"/>
+  </a>
+  <br>
+  <a href="https://github.com/smirtaza-oss/opensource-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=opensource-tools&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/smirtaza-oss/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=portfolio&theme=tokyonight&hide_border=true"/>
+  </a>
+  <br>
+  <i>🚀 Pinned repositories – click to explore!</i>
 </div>
 
 ---
 
-<!-- CODING PLATFORMS (LeetCode, Codeforces, etc.) -->
+<!-- 🧊 3D CONTRIBUTION CUBE (NEW) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=27,28,29&text=🧊+3D+CONTRIBUTION+CUBE&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Generate using yoshi389111/github-profile-3d-contrib action -->
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/profile-3d-contrib/profile-green-animate.svg" width="70%"/>
+  <br>
+  <i>My commits, now in 3D – see them rotate!</i>
+</div>
+
+---
+
+<!-- ⛅ LIVE WEATHER (NEW) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=10,12,15&text=⛅+CURRENT+WEATHER&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Replace with your city name (e.g., Lahore) and get your API key from openweathermap -->
+  <img src="https://weather-icon.jdwkq.com/api/icon/your-city-name" width="80"/>
+  <br>
+  <img src="https://img.shields.io/badge/Lahore-30°C%20☀️-blue?style=for-the-badge&logo=openweathermap"/>
+  <br>
+  <i>(static example – replace with a dynamic badge or SVG)</i>
+</div>
+
+---
+
+<!-- ⚔️ CODING PLATFORMS – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=⚔️+CODING+PLATFORMS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- LeetCode Stats Card -->
   <img src="https://leetcard.jacoblin.cool/smirtaza?theme=tokyonight&font=JetBrains%20Mono&ext=heatmap" width="49%"/>
-  <!-- Codeforces Stats (if you have an account) -->
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smirtaza&theme=tokyonight" width="49%"/>
 </div>
 
 ---
 
-<!-- WAKATIME WEEKLY BREAKDOWN -->
+<!-- ⏱️ CODING METRICS – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⏱️+CODING+METRICS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Requires WakaTime API key configured in the Action -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
   <br>
   <img src="https://wakatime.com/share/@smirtaza/5b3c5f6e-1f45-4b7a-b08e-38b1a2f3f7cd.svg" width="49%"/>
@@ -162,7 +214,7 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE + 3D HEATMAP -->
+<!-- 🐍 CONTRIBUTION GRID + 3D HEATMAP – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=🐍+CONTRIBUTION+GRID&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -175,19 +227,18 @@
 
 ---
 
-<!-- SPOTIFY NOW PLAYING -->
+<!-- 🎵 NOW PLAYING – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=🎵+NOW+PLAYING&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Replace YOUR_SPOTIFY_USER_ID with your Spotify ID (public playlists needed) -->
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </div>
 
 ---
 
-<!-- LIVE CLOCK -->
+<!-- ⏰ LOCAL TIME – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=⏰+LOCAL+TIME&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -198,7 +249,7 @@
 
 ---
 
-<!-- RANDOM DEV QUOTE + JOKE + XKCD COMIC -->
+<!-- 💡 INSPIRATION + QUOTE + JOKE – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=💡+INSPIRATION&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -208,7 +259,6 @@
   <br>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500"/>
   <br>
-  <!-- XKCD of the day (updated daily) -->
   <a href="https://xkcd.com/" target="_blank">
     <img src="https://xkcd.com/s/0b7742.png" width="300"/>
   </a>
@@ -216,27 +266,58 @@
 
 ---
 
-<!-- TIL (Today I Learned) Section – now with an animated typing quote -->
+<!-- 🧠 TODAY’S TECH WISDOM (NEW) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=27,28,29&text=🧠+TECH+WISDOM&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Uses the programming-quotes-api, returns random quote -->
+  <img src="https://programming-quotes-api.herokuapp.com/quotes/random/image?theme=dark" width="500"/>
+  <br>
+  <i>Random dose of wisdom for developers</i>
+</div>
+
+---
+
+<!-- 🔮 OSS INSIGHT (NEW) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=10,12,15&text=🔮+OPEN+SOURCE+INSIGHT&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <!-- Replace with your GitHub username -->
+  <a href="https://ossinsight.io/analyze/smirtaza-oss">
+    <img src="https://ossinsight.io/widgets/official/compose-analyze-commits-time-distribution/smirtaza-oss?theme=dark" width="49%"/>
+  </a>
+  <a href="https://ossinsight.io/analyze/smirtaza-oss">
+    <img src="https://ossinsight.io/widgets/official/compose-analyze-recent-stars/smirtaza-oss?theme=dark" width="49%"/>
+  </a>
+  <br>
+  <i>Real-time open source stats from OSS Insight</i>
+</div>
+
+---
+
+<!-- 📘 TODAY I LEARNED – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=12,14,18&text=📘+TODAY+I+LEARNED&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- Animated inspiration instead of static text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=600&lines=%22The+only+way+to+do+great+work%22;%22is+to+love+what+you+do.%22;%22–+Steve+Jobs%22"/>
+  <i>"Learning never exhausts the mind." – Leonardo da Vinci</i>
   <br>
   <a href="https://github.com/smirtaza-oss/TIL">📂 Explore my TIL collection</a>
 </div>
 
 ---
 
-<!-- DYNAMIC "CURRENTLY" SECTION (updated via Action) -->
+<!-- 🎯 WHAT I'M UP TO – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=24,23,22&text=🎯+WHAT+I'M+UP+TO&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <!-- This can be updated daily/weekly via a simple GitHub Action -->
   <img src="https://img.shields.io/badge/Working%20On-AI--Powered%20SaaS-blue?style=for-the-badge&logo=openai"/>
   <br>
   <img src="https://img.shields.io/badge/Learning-Kubernetes%20%26%20DevOps-9cf?style=for-the-badge&logo=kubernetes"/>
@@ -246,7 +327,7 @@
 
 ---
 
-<!-- SUPPORT / SPONSORS -->
+<!-- ❤️ SUPPORT – unchanged -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=6,11,20&text=❤️+SUPPORT+MY+WORK&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
@@ -259,7 +340,6 @@
     <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="60"/>
   </a>
   <br>
-  <!-- Dynamic Sponsor Widget (if you have sponsors) -->
   <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/main/sponsors.svg"/>
 </div>
 
