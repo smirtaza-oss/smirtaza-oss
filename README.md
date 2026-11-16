@@ -102,7 +102,7 @@ I'm a Computer Science student who loves understanding how things work under the
 <br>
 
 **🌐 Web & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,jest,storybook&perline=9"/>
 
 <br>
 
@@ -155,23 +155,17 @@ I'm a Computer Science student who loves understanding how things work under the
   <img src="https://github-profile-trophy.vercel.app/?username=smirtaza-oss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 </div>
 
-### 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Games
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%"/>
+  <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/snake-output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/snake-output/github-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/snake-output/github-snake-dark.svg"/>
-  </picture>
-</div>
-
-### 👾 Contribution Pac-Man
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman contribution graph" width="98%" src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </div>
 
@@ -209,6 +203,8 @@ I'm a Computer Science student who loves understanding how things work under the
 <div align="center">
   <a href="https://github.com/smirtaza-oss"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="55"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=youtube" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
