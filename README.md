@@ -143,25 +143,6 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📡 Live Skill Radar
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img width="49%" src="https://wakatime.com/share/@smirtaza/5b3c5f6e-1f45-4b7a-b08e-38b1a2f3f7cd.svg"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📌 Projects
-
-<div align="center">
-  <a href="https://github.com/smirtaza-oss/os-kernel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=os-kernel&theme=tokyonight&hide_border=true&show_owner=true"/></a>
-  <a href="https://github.com/smirtaza-oss/ml-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=ml-compiler&theme=tokyonight&hide_border=true&show_owner=true"/></a>
-  <br>
-  <a href="https://github.com/smirtaza-oss/distributed-systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=distributed-systems&theme=tokyonight&hide_border=true&show_owner=true"/></a>
-  <a href="https://github.com/smirtaza-oss/algorithm-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smirtaza-oss&repo=algorithm-visualizer&theme=tokyonight&hide_border=true&show_owner=true"/></a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
@@ -179,20 +160,6 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Games
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%"/>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman contribution graph" width="98%" src="https://raw.githubusercontent.com/smirtaza-oss/smirtaza-oss/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## ⚔️ Competitive Programming
 
 <div align="center">
@@ -202,23 +169,9 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⏱️ Coding Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📝 CS Articles
-
-<div align="center">
-  <a href="https://dev.to/smirtaza">
-    <img src="https://blog-readme.vercel.app/api?username=smirtaza&theme=tokyonight" width="80%"/>
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📄 Latest CS Paper
 
