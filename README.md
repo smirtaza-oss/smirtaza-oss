@@ -1,11 +1,7 @@
-<!--
-  🎓 BS COMPUTER SCIENCE PROFILE
-  Live sections update automatically; no manual image uploads.
--->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=MIRTAZA&fontColor=00F7FF&fontSize=90&fontAlignY=40&animation=twinkling&desc=BS%20Computer%20Science%20Student%20%7C%20AI%20Researcher%20%7C%20Systems%20Programmer&descAlignY=62&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=M.IRTAZA&fontColor=00F7FF&fontSize=90&fontAlignY=40&animation=twinkling&desc=BS%20Computer%20Science%20Student%20%7C%20AI%20Researcher%20%7C%20Systems%20Programmer&descAlignY=62&descSize=22"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+World!+I'm+Mirtaza;🎓+Computer+Science+Student;📚+Algorithms+%26+Data+Structures;⚙️+Operating+Systems+%26+Compilers;🤖+Artificial+Intelligence+%26+Machine+Learning;🧪+Building+Systems+that+Scale"/>
 
