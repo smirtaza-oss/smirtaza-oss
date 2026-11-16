@@ -1,8 +1,13 @@
+<!--
+  🎓 BS COMPUTER SCIENCE PROFILE
+  Live sections update automatically; no manual image uploads.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=MIRTAZA&fontColor=00F7FF&fontSize=90&fontAlignY=40&animation=twinkling&desc=BS%20Computer%20Science%20Student&descAlignY=62&descSize=26"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=MIRTAZA&fontColor=00F7FF&fontSize=90&fontAlignY=40&animation=twinkling&desc=BS%20Computer%20Science%20Student%20%7C%20AI%20Researcher%20%7C%20Systems%20Programmer&descAlignY=62&descSize=22"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hello%2C+World!+I'm+Mirtaza;🎓+Computer+Science+Student;📚+Algorithms+%26+Data+Structures;⚙️+Operating+Systems+%26+Compilers;🤖+Artificial+Intelligence+%26+Machine+Learning;🧪+Building+Systems+that+Scale"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+World!+I'm+Mirtaza;🎓+Computer+Science+Student;📚+Algorithms+%26+Data+Structures;⚙️+Operating+Systems+%26+Compilers;🤖+Artificial+Intelligence+%26+Machine+Learning;🧪+Building+Systems+that+Scale"/>
 
 <br>
 
@@ -10,16 +15,23 @@
 <img src="https://img.shields.io/github/stars/smirtaza-oss?style=for-the-badge&logo=github&logoColor=white&color=302b63&labelColor=0f0c29"/>
 <img src="https://img.shields.io/github/repos/smirtaza-oss?style=for-the-badge&logo=github&logoColor=white&color=302b63&labelColor=0f0c29"/>
 <img src="https://komarev.com/ghpvc/?username=smirtaza-oss&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS"/>
+<br>
+<img src="https://img.shields.io/badge/Open%20Source-Advocate-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CS-Student-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-AI%20%26%20Systems-orange?style=for-the-badge&logo=arxiv"/>
 
 <br><br>
 
 <a href="#-about-me">About</a> •
+<a href="#-system-information">System</a> •
 <a href="#-core-cs-foundations">Foundations</a> •
 <a href="#-tech-stack">Tech Stack</a> •
 <a href="#-projects">Projects</a> •
 <a href="#-github-analytics">Analytics</a> •
 <a href="#-competitive-programming">Competitive</a> •
-<a href="#-connect">Connect</a>
+<a href="#-latest-cs-paper">Paper</a> •
+<a href="#-connect">Connect</a> •
+<a href="#-support-my-research">Support</a>
 
 </div>
 
@@ -63,6 +75,14 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🖥️ System Information
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF41&center=false&vCenter=false&multiline=true&width=850&height=420&lines=user@cs-lab:~%24+neofetch;OS%3A+Arch+Linux+x86_64;Kernel%3A+6.1.12-custom;Shell%3A+zsh+5.8;DE%3A+i3-gaps;Theme%3A+Tokyo+Night;CPU%3A+Intel+i7-11800H+(16)+%40+4.6GHz;GPU%3A+NVIDIA+GeForce+RTX+3070;Memory%3A+32GB+DDR4;Storage%3A+1TB+NVMe+SSD;Uptime%3A+42+days+7+hours;Packages%3A+1847+(pacman);Editor%3A+VSCode+%2F+Neovim;user@cs-lab:~%24+_"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🧠 Core CS Foundations
 
 <div align="center">
@@ -102,7 +122,7 @@ I'm a Computer Science student who loves understanding how things work under the
 <br>
 
 **🌐 Web & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,jest,storybook&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,dotnet,jest,storybook&perline=10"/>
 
 <br>
 
@@ -116,8 +136,8 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <br>
 
-**🛠️ Environment & Tools**<br>
-<img src="https://skillicons.dev/icons?i=linux,vim,vscode,latex&perline=4"/>
+**🛠️ Environment, Tools & Hardware**<br>
+<img src="https://skillicons.dev/icons?i=linux,vim,vscode,latex,raspberrypi&perline=5"/>
 
 </div>
 
@@ -126,8 +146,8 @@ I'm a Computer Science student who loves understanding how things work under the
 ## 📡 Live Skill Radar
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirtaza-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://wakatime.com/share/@smirtaza/5b3c5f6e-1f45-4b7a-b08e-38b1a2f3f7cd.svg"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -151,6 +171,8 @@ I'm a Computer Science student who loves understanding how things work under the
   <img height="190" src="https://streak-stats.demolab.com?user=smirtaza-oss&theme=tokyonight&hide_border=true"/>
   <br><br>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smirtaza-oss&theme=tokyo-night&hide_border=true&area=true"/>
+  <br><br>
+  <img width="98%" src="https://github-readme-activity.vercel.app/api?username=smirtaza-oss&theme=tokyonight&hide_border=true"/>
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=smirtaza-oss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 </div>
@@ -180,10 +202,10 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⏱️ Coding Time
+## ⏱️ Coding Metrics
 
 <div align="center">
-  <img width="60%" src="https://wakatime.com/share/@smirtaza/5b3c5f6e-1f45-4b7a-b08e-38b1a2f3f7cd.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smirtaza&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -198,6 +220,17 @@ I'm a Computer Science student who loves understanding how things work under the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📄 Latest CS Paper
+
+<div align="center">
+  <!-- Can be updated daily with a GitHub Action that fetches from arXiv -->
+  <i>📌 “Attention Is All You Need” – Vaswani et al. (NeurIPS 2017)</i>
+  <br>
+  <a href="https://arxiv.org/abs/1706.03762">Read the paper</a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🌌 Connect
 
 <div align="center">
@@ -208,6 +241,19 @@ I'm a Computer Science student who loves understanding how things work under the
   <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ❤️ Support My Research
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/smirtaza">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"/>
+  </a>
+  <a href="https://github.com/sponsors/smirtaza-oss">
+    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="60"/>
+  </a>
 </div>
 
 <br>
